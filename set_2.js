@@ -12,17 +12,17 @@
 
 //5 -> output clone object to avoid 
 // let a = {name : 'john'}
-// console.log(a.name);
 // let b = a;
 // b.name = 'Jane';
-// console.log(a.name)
+// console.log(b.name)
+// console.log(a.name);
 
 // 6 -> output how to clone nested array - 2ways
 // let b = [{c : 10}];
 // b[0].c = 20;
-// console.log(b[0].c)
 // let b1 = b;
 // b1[0].c = 30;
+// console.log(b1[0].c)
 // console.log(b[0].c)
 
 //7 -> what is the output -> how to fix this
