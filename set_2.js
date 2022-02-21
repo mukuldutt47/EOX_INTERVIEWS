@@ -1,23 +1,23 @@
 
-// 2 -> output
+// 1 -> output
 // console.log(1);
 // setTimeout(() => console.log(2));
 // (() => console.log(3))();
 // console.log(4);
 
-//3 -> verify if a string a palindrome in a single line of code 
+//2 -> write a function to verify if a string is a palindrome or not
 
-//4 -> output
+//3 
 // '2' == 2 && !('3' - 3)
 
-//5 -> output clone object to avoid 
+//4
 // let a = {name : 'john'}
 // let b = a;
 // b.name = 'Jane';
 // console.log(b.name)
 // console.log(a.name);
 
-// 6 -> output how to clone nested array - 2ways
+// 5 
 // let b = [{c : 10}];
 // b[0].c = 20;
 // let b1 = b;
@@ -25,10 +25,10 @@
 // console.log(b1[0].c)
 // console.log(b[0].c)
 
-//7 -> what is the output -> how to fix this
+//6
 // for(var i=0;i<5;i++){
 //     setTimeout(() => console.log(i))
 // }
 
-// 1 -> write a curry 
+// 7
 // sum(2)(3)(4)() => 9
