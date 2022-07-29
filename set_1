@@ -1,3 +1,20 @@
+=================================================
+HTML & CSS
+=================================================
+1. Tags vs attributes
+2. Ways to add CSS to HTML page & their priorities
+3. <anchor> vs <link>
+4. Raster vs Vector image types
+5. CSS box model
+6. Class vs ID vs Type selectors in CSS
+7. Name some Keyboard and mouse events
+8. Overcoming styling conflicts in CSS (Cascading)
+9. CSS Grid concept
+10. Hexcodes
+=================================================
+JS
+=================================================
+
 1. Differences btw let, const and var
 2. Hoisting - with respect to let const and var
 3. closures
@@ -5,3 +22,6 @@
 5. Event loop explain with an example 
 6. what is a callback, callback-hell how to overcome with promises explain with an example.
 7. localstorage, session and cookie
+8. Truthy and Falsy values
+9. Optional chaining
+10. Name Array looping methods vs Object methods
